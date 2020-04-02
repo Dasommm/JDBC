@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.dto.MemberDto.location&apos; in &apos;com.dto.MemberDto&apos;&#x0D;&#x0A;- Original project: &apos;DBTest03&apos;&#x0D;&#x0A;- Original element: &apos;com.dto.MemberDto.location&apos;&#x0D;&#x0A;- Getter method name: &apos;getLocation&apos;&#x0D;&#x0A;- Setter method name: &apos;setLocation&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;location&apos;" flags="589830" getter="getLocation" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;com.dto{MemberDto.java[MemberDto^location" insertion="16" setter="setLocation" stamp="1576138416804" version="1.0" visibility="1"/>
+</session>
